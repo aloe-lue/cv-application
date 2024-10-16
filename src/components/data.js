@@ -3,6 +3,7 @@ const generalInfoData = {
   LastName: "Gibbons",
   Mobile: "079 3316 8146",
   Email: "David.gibbons@live.co.uk",
+  location: "Random Road California Road",
 };
 
 const educationalExperience = [
@@ -21,7 +22,7 @@ const educationalExperience = [
   {
     year: "2000-2007",
     school: "Bournville Secondary School",
-    titleOfStudy: "8 GCSEs at grades A*-C",
+    nameOfStudy: "8 GCSEs at grades A*-C",
   },
 ];
 
