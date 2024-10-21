@@ -125,16 +125,16 @@ table {
 
 @font-face {
   font-family: "playfair-display-regular";
-  src: url("src/fonts/playfair-display/playfairdisplay-regular-webfont.woff")
+  src: url("/src/fonts/playfair-display/playfairdisplay-regular-webfont.woff")
       format("woff"),
-    url("src/fonts/playfair-display/playfairdisplay-regular-webfont.woff2")
+    url("/src/fonts/playfair-display/playfairdisplay-regular-webfont.woff2")
       format("woff2");
 }
 
 @font-face {
   font-family: "roboto-regular";
-  src: url("src/fonts/roboto/roboto-regular-webfont.woff") format("woff"),
-    url("src/fonts/roboto/roboto-regular-webfont.woff2") format("woff2");
+  src: url("/src/fonts/roboto/roboto-regular-webfont.woff") format("woff"),
+    url("/src/fonts/roboto/roboto-regular-webfont.woff2") format("woff2");
 }
 
 *,
