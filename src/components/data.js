@@ -1,29 +1,29 @@
 const generalInfoData = {
-  firstName: "David",
-  LastName: "Gibbons",
-  Mobile: "079 3316 8146",
-  Email: "David.gibbons@live.co.uk",
-  location: "Random Road California Road",
+  firstName: "John",
+  LastName: "Doe",
+  Mobile: "1234 12345",
+  Email: "this-is-not-real-email@yahoo.com",
+  location: "Random Street California Road",
 };
 
 const educationalExperience = [
   {
-    year: "2009-2013",
-    school: "Aston University",
+    year: "2119-2123",
+    school: "Unreal University",
     nameOfStudy: "BSe Computer Science",
     titleOfStudy: "1st Class Degree with Professional Placement",
     key: crypto.randomUUID(),
   },
   {
-    year: "2007-2009",
-    school: "Hall Green College",
+    year: "2117-2119",
+    school: "Random College",
     nameOfStudy: "BTEC National Diploman in IT",
     titleOfStudy: "Grade Achieved: Triple Distinction",
     key: crypto.randomUUID(),
   },
   {
-    year: "2000-2007",
-    school: "Bournville Secondary School",
+    year: "2111-2117",
+    school: "Random Secondary School",
     nameOfStudy: "",
     titleOfStudy: "8 GCSEs at grades A*-C",
     key: crypto.randomUUID(),
@@ -33,9 +33,9 @@ const educationalExperience = [
 const practicalExperience = [
   {
     key: crypto.randomUUID(),
-    companyName: "Maplins",
-    positionTitle: "IT Manager",
-    date: "Jun 2008 - Present",
+    companyName: "Impossible Company",
+    positionTitle: "Software Engineer",
+    date: "Jun 2118 - Present",
     mainResponsibility: [
       {
         responsibility: "Mentoring and training new IT staff",
@@ -59,9 +59,9 @@ const practicalExperience = [
   },
   {
     key: crypto.randomUUID(),
-    companyName: "Ladypool Warehouse Ltd.",
+    companyName: "Unreal House Ltd.",
     positionTitle: "IT Support Officer",
-    date: "Oct 2003 - Jun 2008",
+    date: "Oct 2113 - Jun 2118",
     mainResponsibility: [
       {
         key: crypto.randomUUID(),
